@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32mm"
+   height="32mm"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg32539"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="tick.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview32541"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-grids="false"
+     inkscape:zoom="2.2378227"
+     inkscape:cx="-4.0217664"
+     inkscape:cy="-9.3841216"
+     inkscape:window-width="1896"
+     inkscape:window-height="958"
+     inkscape:window-x="12"
+     inkscape:window-y="12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid32600" />
+  </sodipodi:namedview>
+  <defs
+     id="defs32536" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g32947"
+       transform="translate(-0.21204488,-0.52695144)">
+      <path
+         id="rect32624"
+         style="fill:#ffffff;stroke-width:2.23931"
+         d="m 24.08015,11.109839 c -0.426337,-0.426337 -1.112783,-0.426337 -1.53912,0 l -8.465166,8.465165 -3.847801,-3.847803 c -0.4263368,-0.426336 -1.1127834,-0.426336 -1.5391202,0 -0.4263368,0.426337 -0.4263368,1.112785 0,1.539122 l 4.6173622,4.617363 c 0.426337,0.426335 1.112784,0.426335 1.53912,0 l 9.234725,-9.234727 c 0.426337,-0.426337 0.426337,-1.112783 0,-1.53912 z" />
+      <circle
+         style="fill:none;stroke:#ffffff;stroke-width:1.361;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path32731"
+         cx="16.384546"
+         cy="16.496761"
+         r="12.567708" />
+    </g>
+  </g>
+</svg>

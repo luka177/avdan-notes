@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32mm"
+   height="32mm"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg40019"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="trash.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview40021"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-grids="false"
+     inkscape:zoom="2.2378227"
+     inkscape:cx="-16.087066"
+     inkscape:cy="23.236872"
+     inkscape:window-width="1896"
+     inkscape:window-height="958"
+     inkscape:window-x="12"
+     inkscape:window-y="12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid40080" />
+  </sodipodi:namedview>
+  <defs
+     id="defs40016" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g41070">
+      <path
+         id="rect40104"
+         style="fill:#ffffff;stroke-width:1.14079"
+         d="M 25.720493,8.3817719 23.25076,26.04118 c -0.245262,1.753706 -1.180042,3.210801 -2.645833,3.210801 H 11.34451 c -1.4657917,0 -2.4000692,-1.457199 -2.6458328,-3.210801 L 6.2237488,8.3817719 c 5.1207602,0 13.0582602,0 19.4967442,0 z"
+         sodipodi:nodetypes="csssscc" />
+      <g
+         id="g41064"
+         transform="translate(0.15623733,-3.4234976)">
+        <rect
+           style="fill:#ffffff;stroke:none;stroke-width:1.39935"
+           id="rect40876"
+           width="19.579166"
+           height="2.6458333"
+           x="6.0854168"
+           y="7.6729169"
+           ry="0.79375035" />
+        <rect
+           style="fill:#ffffff;stroke:none;stroke-width:1.92474"
+           id="rect40980"
+           width="6.8791666"
+           height="3.1750002"
+           x="12.435416"
+           y="6.0854168"
+           ry="1.5875001" />
+      </g>
+    </g>
+  </g>
+</svg>

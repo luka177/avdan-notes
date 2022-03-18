@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>resources/back.svg</file>
+        <file>resources/bold.svg</file>
+        <file>resources/italic.svg</file>
+        <file>resources/menu.svg</file>
+        <file>resources/picture.svg</file>
+        <file>resources/share.svg</file>
+        <file>resources/table.svg</file>
+        <file>resources/tick.svg</file>
+        <file>resources/trash.svg</file>
+        <file>resources/underline.svg</file>
+        <file>resources/user.svg</file>
+        <file>resources/write.svg</file>
+    </qresource>
+</RCC>
